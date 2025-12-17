@@ -13,13 +13,6 @@ This game is implemented in Python using:
 - **level system** that increases difficulty
 - **try count** that limits the number of guesses per round
 
-The game logic:
-1. Generate a random number between 1 and the maximum (end).
-2. The player has three chances to guess the number.
-3. Give feedback if the guess is too high or too low.
-4. Reveal the number if the player runs out of tries.
-5. Offer options to advance to the next level, replay, or exit.
-
 ## Source Code
 You can find the full source code here: [Number Guessing Game](https://github.com/Ivaylo779/Number-Guessing-Game/blob/master/number_guessing_game.py)
 
